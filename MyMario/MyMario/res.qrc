@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/walk_sm">
+        <file>res/graphics/mario_sm/walk1.png</file>
+        <file>res/graphics/mario_sm/walk2.png</file>
+        <file>res/graphics/mario_sm/walk3.png</file>
+    </qresource>
+    <qresource prefix="/jump_sm">
+        <file>res/graphics/mario_sm/jump.png</file>
+    </qresource>
+    <qresource prefix="/stand_sm">
+        <file>res/graphics/mario_sm/stand.png</file>
+    </qresource>
+    <qresource prefix="/ico">
+        <file>res/ico/mario.ico</file>
+    </qresource>
+    <qresource prefix="/back_ground">
+        <file>res/graphics/level_1.png</file>
+    </qresource>
+    <qresource prefix="/g_sm">
+        <file>res/graphics/mario_sm/g.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>res/music/main-theme.mp3</file>
+    </qresource>
+</RCC>
